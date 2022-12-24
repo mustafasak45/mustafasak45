@@ -1,7 +1,7 @@
 ### Hi there, I'm Mustafa. 👋
 
 
-[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-sak-1993-tr/)
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mustafaasak/)
 
 <img src="https://media.giphy.com/media/JmBXdjfIblJDi/giphy.gif" align="left" width="400" height="250">
 
